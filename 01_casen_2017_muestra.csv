@@ -1,0 +1,200 @@
+sexo;sexo_cod;edad;etnia;es_indigena;pobreza_ingreso;esc;ingreso;qaut;qautr
+Mujer;1;56;Aimara;Indigena;No pobres;12;250000;3;3
+Mujer;1;21;No pertenece a ningún pueblo indígena;No indigena;No pobres;7;211091;3;3
+Hombre;0;24;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;281750;4;4
+Hombre;0;28;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;12;311750;4;4
+Hombre;0;26;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;15;341667;2;2
+Mujer;1;26;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;15;;2;2
+Mujer;1;1;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;2;2
+Mujer;1;62;No pertenece a ningún pueblo indígena;No indigena;No pobres;7;130000;3;3
+Mujer;1;36;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;333333;3;3
+Mujer;1;59;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;595000;4;5
+Mujer;1;23;No pertenece a ningún pueblo indígena;No indigena;No pobres;14;540000;4;5
+Hombre;0;23;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;540000;4;5
+Hombre;0;1;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;5
+Hombre;0;77;No pertenece a ningún pueblo indígena;No indigena;No pobres;5;172813;2;1
+Mujer;1;76;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;4;126075;2;1
+Mujer;1;50;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;12;336000;2;1
+Hombre;0;75;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;6;208000;3;3
+Mujer;1;24;Mapuche;Indigena;Pobres extremos;15;420000;3;3
+Mujer;1;33;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;16;;3;3
+Hombre;0;48;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;8;200000;3;3
+Mujer;1;66;Diaguita;Indigena;No pobres;14;;2;2
+Mujer;1;34;Diaguita;Indigena;No pobres;12;388851;2;2
+Hombre;0;43;Diaguita;Indigena;No pobres;12;300000;2;2
+Mujer;1;16;Diaguita;Indigena;No pobres;11;;2;2
+Mujer;1;10;Diaguita;Indigena;No pobres;;18675;2;2
+Mujer;1;3;Diaguita;Indigena;No pobres;;;2;2
+Mujer;1;68;No pertenece a ningún pueblo indígena;No indigena;No pobres;6;447482;5;5
+Mujer;1;53;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;728333;4;4
+Hombre;0;22;No pertenece a ningún pueblo indígena;No indigena;No pobres;16;;4;4
+Hombre;0;19;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;140000;4;4
+Mujer;1;76;Aimara;No indigena;No pobres;11;264161;4;4
+Hombre;0;65;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;;4;5
+Mujer;1;60;Mapuche;No indigena;No pobres;12;1016667;4;5
+Mujer;1;32;Diaguita;No indigena;No pobres;17;500000;4;5
+Mujer;1;8;Quechua;No indigena;No pobres;;;4;5
+Mujer;1;74;Collas;No indigena;Pobres extremos;0;116778;4;4
+Mujer;1;43;Yámana o Yagán;No indigena;Pobres extremos;12;415000;4;4
+Hombre;0;52;Atacameño (Likan-Antai);No indigena;Pobres extremos;11;;4;4
+Mujer;1;77;Kawashkar o Alacalufes;No indigena;Pobres extremos;16;217578;2;1
+Hombre;0;27;Rapa-Nui o Pascuenses;No indigena;Pobres extremos;17;1000000;5;5
+Mujer;1;29;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;700000;5;5
+Mujer;1;34;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;450000;2;2
+Mujer;1;15;No pertenece a ningún pueblo indígena;No indigena;No pobres;9;;2;2
+Mujer;1;10;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;2;2
+Hombre;0;56;Aimara;No indigena;No pobres;12;600000;2;2
+Mujer;1;52;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;7368;2;2
+Mujer;1;17;Mapuche;No indigena;No pobres;11;;2;2
+Mujer;1;15;Diaguita;No indigena;No pobres;9;;2;2
+Mujer;1;44;Quechua;No indigena;No pobres;12;350000;4;4
+Mujer;1;31;Collas;Indigena;No pobres;12;240000;2;2
+Mujer;1;4;Yámana o Yagán;Indigena;Pobres extremos;;80000;2;2
+Mujer;1;52;Atacameño (Likan-Antai);No indigena;Pobres extremos;12;260000;2;2
+Mujer;1;14;Kawashkar o Alacalufes;No indigena;Pobres extremos;;60000;2;2
+Mujer;1;71;Rapa-Nui o Pascuenses;No indigena;Pobres extremos;11;412932;3;3
+Hombre;0;70;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;16;109578;3;3
+Mujer;1;89;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;6;179932;3;3
+Hombre;0;33;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;353500;3;3
+Mujer;1;25;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;350000;3;3
+Hombre;0;12;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;3;3
+Hombre;0;4;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;3;3
+Hombre;0;45;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;320000;2;2
+Mujer;1;44;No pertenece a ningún pueblo indígena;No indigena;No pobres;9;320000;2;2
+Hombre;0;22;No pertenece a ningún pueblo indígena;No indigena;No pobres;10;200000;2;2
+Mujer;1;15;No pertenece a ningún pueblo indígena;No indigena;No pobres;10;;2;2
+Hombre;0;8;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;2;2
+Mujer;1;3;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;2;2
+Hombre;0;44;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;260000;4;4
+Mujer;1;35;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;12;262500;4;4
+Mujer;1;50;Quechua;Indigena;Pobres extremos;1;500000;5;5
+Mujer;1;31;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;12;300000;2;2
+Hombre;0;5;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;;;2;2
+Hombre;0;65;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;15;;2;2
+Mujer;1;69;Diaguita;Indigena;Pobres extremos;15;358333;2;2
+Hombre;0;19;Aimara;No indigena;No pobres;12;;2;2
+Mujer;1;90;No pertenece a ningún pueblo indígena;No indigena;No pobres;9;203684;3;3
+Hombre;0;89;Mapuche;No indigena;No pobres;6;239000;3;3
+Mujer;1;40;Diaguita;No indigena;No pobres;12;300000;2;2
+Hombre;0;17;Quechua;No indigena;No pobres;10;60000;2;2
+Mujer;1;12;Collas;No indigena;No pobres;;80000;2;2
+Mujer;1;77;Yámana o Yagán;No indigena;No pobres;6;113000;5;5
+Hombre;0;48;Atacameño (Likan-Antai);No indigena;No pobres;12;1000000;5;5
+Hombre;0;43;Kawashkar o Alacalufes;No indigena;No pobres;11;500000;1;1
+Mujer;1;42;Rapa-Nui o Pascuenses;No indigena;No pobres;10;;1;1
+Hombre;0;23;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;;1;1
+Hombre;0;20;No pertenece a ningún pueblo indígena;No indigena;No pobres;9;;1;1
+Mujer;1;13;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;1;1
+Mujer;1;6;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;1;1
+Hombre;0;38;No pertenece a ningún pueblo indígena;No indigena;No pobres;7;;1;1
+Mujer;1;71;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;;1;1
+Mujer;1;56;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;12;;1;1
+Hombre;0;60;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;823334;5;5
+Hombre;0;51;No pertenece a ningún pueblo indígena;No indigena;No pobres;6;1300000;4;4
+Mujer;1;48;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;400000;4;4
+Mujer;1;34;No pertenece a ningún pueblo indígena;No indigena;No pobres;14;400000;4;4
+Hombre;0;28;No pertenece a ningún pueblo indígena;No indigena;No pobres;16;83333;4;4
+Hombre;0;17;Aimara;No indigena;Pobres extremos;11;;4;4
+Mujer;1;12;No pertenece a ningún pueblo indígena;No indigena;Pobres extremos;;;4;4
+Mujer;1;6;Mapuche;No indigena;Pobres extremos;;;4;4
+Hombre;0;37;Diaguita;No indigena;Pobres extremos;16;1000000;5;5
+Mujer;1;34;Quechua;No indigena;Pobres extremos;16;1000000;5;5
+Hombre;0;46;Collas;No indigena;Pobres extremos;12;400000;5;5
+Hombre;0;15;Yámana o Yagán;No indigena;Pobres extremos;9;;5;5
+Mujer;1;39;Atacameño (Likan-Antai);No indigena;Pobres extremos;14;;5;5
+Mujer;1;49;Kawashkar o Alacalufes;Indigena;No pobres;12;370000;5;5
+Mujer;1;29;Rapa-Nui o Pascuenses;Indigena;No pobres;17;550000;;
+Hombre;0;37;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;1329622;4;4
+Mujer;1;35;No pertenece a ningún pueblo indígena;No indigena;No pobres;15;;4;4
+Hombre;0;9;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;4
+Hombre;0;3;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;4
+Hombre;0;35;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;2070000;5;5
+Mujer;1;33;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;;5;5
+Hombre;0;6;No pertenece a ningún pueblo indígena;;No pobres;;;5;5
+Hombre;0;4;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;5;5
+Hombre;0;64;No pertenece a ningún pueblo indígena;No indigena;No pobres;16;2416667;5;5
+Mujer;1;52;No pertenece a ningún pueblo indígena;No indigena;No pobres;4;104646;5;5
+Mujer;1;48;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;14;287686;1;1
+Hombre;0;49;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;14;;1;1
+Mujer;1;21;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;15;;1;1
+Hombre;0;87;No pertenece a ningún pueblo indígena;No indigena;No pobres;6;300000;1;1
+Mujer;1;50;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;21;;1;1
+Mujer;1;81;No pertenece a ningún pueblo indígena;;Pobres no extremos;8;;1;1
+Hombre;0;3;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;;;1;1
+Hombre;0;66;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;1700000;5;5
+Mujer;1;72;;No indigena;No pobres;11;1600000;5;5
+Hombre;0;59;No pertenece a ningún pueblo indígena;No indigena;No pobres;18;1380000;5;5
+Mujer;1;50;Mapuche;No indigena;No pobres;15;2000000;5;5
+Mujer;1;67;Diaguita;No indigena;No pobres;10;500000;4;4
+Hombre;0;73;Quechua;No indigena;;8;500000;4;4
+Mujer;1;41;Collas;No indigena;No pobres;12;180000;4;4
+Hombre;0;74;Yámana o Yagán;No indigena;No pobres;12;250000;3;3
+Mujer;1;69;Atacameño (Likan-Antai);No indigena;No pobres;7;;3;3
+Hombre;0;50;Kawashkar o Alacalufes;No indigena;No pobres;12;350000;3;3
+Hombre;0;40;Rapa-Nui o Pascuenses;No indigena;No pobres;12;350000;3;3
+Mujer;1;38;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;350000;3;3
+Mujer;1;16;No pertenece a ningún pueblo indígena;No indigena;No pobres;10;;3;3
+Hombre;0;5;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;3;3
+Mujer;1;69;No pertenece a ningún pueblo indígena;No indigena;No pobres;7;157000;4;4
+Hombre;0;47;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;550000;4;4
+Mujer;1;38;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;400000;4;4
+Hombre;0;63;Diaguita;Indigena;No pobres;8;425000;5;5
+Mujer;1;69;Aimara;Indigena;No pobres;8;410000;5;5
+Hombre;0;29;Diaguita;Indigena;No pobres;17;;5;5
+Mujer;1;35;Diaguita;Indigena;No pobres;17;;5;5
+Mujer;1;48;No pertenece a ningún pueblo indígena;No indigena;No pobres;4;270000;2;2
+Mujer;1;28;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;200000;2;2
+Mujer;1;6;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;2;2
+Hombre;0;3;Aimara;No indigena;No pobres;;;2;2
+Hombre;0;47;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;2382500;5;5
+Mujer;1;30;Mapuche;No indigena;;15;;5;5
+Hombre;0;8;Diaguita;No indigena;No pobres;;;5;5
+Mujer;1;47;Quechua;No indigena;No pobres;16;;5;5
+Mujer;1;29;Collas;No indigena;No pobres;17;1116841;5;5
+Mujer;1;38;Yámana o Yagán;No indigena;No pobres;17;2725000;5;5
+Hombre;0;39;Atacameño (Likan-Antai);No indigena;No pobres;17;2269424;5;5
+Hombre;0;44;Kawashkar o Alacalufes;No indigena;Pobres no extremos;17;2265833;5;5
+Mujer;1;41;Rapa-Nui o Pascuenses;No indigena;Pobres no extremos;17;2584167;5;5
+Mujer;1;2;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;;;5;5
+Hombre;0;25;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;601136;5;5
+Hombre;0;25;No pertenece a ningún pueblo indígena;No indigena;No pobres;12;410000;5;5
+Hombre;0;46;Mapuche;Indigena;No pobres;17;1400000;3;3
+Mujer;1;36;Quechua;Indigena;No pobres;8;;3;3
+Mujer;1;18;Mapuche;Indigena;No pobres;10;;3;3
+Hombre;0;16;Quechua;Indigena;No pobres;0;;3;3
+Mujer;1;9;Quechua;Indigena;No pobres;;;3;3
+Hombre;0;1;Aimara;Indigena;No pobres;;;3;3
+Mujer;1;30;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;1000000;5;5
+Hombre;0;28;Mapuche;No indigena;No pobres;17;766667;5;5
+Mujer;1;46;Diaguita;Indigena;No pobres;15;410000;4;4
+Hombre;0;51;Quechua;;No pobres;15;700000;4;4
+Hombre;0;16;Collas;Indigena;No pobres;11;;4;4
+Mujer;1;37;Yámana o Yagán;No indigena;No pobres;12;981666;3;3
+Hombre;0;42;Atacameño (Likan-Antai);No indigena;No pobres;17;200000;3;3
+Mujer;1;13;Kawashkar o Alacalufes;No indigena;No pobres;;;3;3
+Hombre;0;8;Rapa-Nui o Pascuenses;No indigena;No pobres;;;3;3
+Mujer;1;1;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;3;3
+Mujer;1;60;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;6;350000;1;1
+Mujer;1;55;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;8;;1;1
+Mujer;1;25;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;9;5398;;
+Mujer;1;17;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;11;;1;1
+Hombre;0;40;No pertenece a ningún pueblo indígena;No indigena;No pobres;17;2073334;5;5
+Hombre;0;37;;No indigena;No pobres;15;1130000;4;4
+Mujer;1;45;Aimara;No indigena;No pobres;15;;4;4
+Hombre;0;5;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;4
+Hombre;0;27;Mapuche;No indigena;No pobres;17;2085856;5;5
+Hombre;0;33;Diaguita;No indigena;No pobres;12;;1;1
+Hombre;0;66;Quechua;No indigena;No pobres;18;4436841;5;5
+Mujer;1;64;Collas;No indigena;No pobres;17;173000;5;5
+Mujer;1;67;Yámana o Yagán;No indigena;Pobres no extremos;13;120000;4;4
+Mujer;1;70;Atacameño (Likan-Antai);No indigena;Pobres no extremos;10;837500;4;4
+Hombre;0;63;Kawashkar o Alacalufes;No indigena;Pobres no extremos;16;;4;4
+Hombre;0;29;;No indigena;Pobres no extremos;17;1562083;5;5
+Mujer;1;27;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;14;270167;5;5
+Hombre;0;48;No pertenece a ningún pueblo indígena;No indigena;Pobres no extremos;14;1033333;4;4
+Mujer;1;49;Aimara;Indigena;No pobres;12;;4;4
+Hombre;0;16;No pertenece a ningún pueblo indígena;No indigena;No pobres;10;;4;4
+Mujer;1;10;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;4
+Hombre;0;43;;;;;;;
+Mujer;1;37;No pertenece a ningún pueblo indígena;No indigena;No pobres;15;;4;4
+Hombre;0;10;No pertenece a ningún pueblo indígena;No indigena;No pobres;;;4;4
